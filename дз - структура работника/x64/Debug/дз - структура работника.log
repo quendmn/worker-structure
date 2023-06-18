@@ -1,0 +1,8 @@
+﻿  дз - структура работника.cpp
+C:\Users\aleks\source\repos\дз - структура работника\дз - структура работника.cpp(43,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\aleks\source\repos\дз - структура работника\дз - структура работника.cpp(44,30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\дз - структура работника\дз - структура работника.cpp(50,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\aleks\source\repos\дз - структура работника\дз - структура работника.cpp(51,30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\дз - структура работника\дз - структура работника.cpp(56,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\aleks\source\repos\дз - структура работника\дз - структура работника.cpp(57,30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  дз - структура работника.vcxproj -> C:\Users\aleks\source\repos\дз - структура работника\x64\Debug\дз - структура работника.exe
